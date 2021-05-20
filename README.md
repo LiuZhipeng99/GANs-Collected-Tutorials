@@ -1,4 +1,7 @@
 # GANs-Collected-Tutorials
+## GANS tutorial
+- PyTorch/Keras implementations of Generative Adversarial Networks.https://github.com/eriklindernoren/Keras-GAN
+- https://kozistr.tech/Awesome-GANs/
 ## stylegan
 - https://github.com/NVlabs/stylegan2 StyleGAN2 - Official TensorFlow Implementation
 
